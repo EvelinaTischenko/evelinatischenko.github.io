@@ -24,6 +24,8 @@
   - links to intsagram post, website url, anywhere else the project is posted
 
 *Include any works you will include here, once you have them.*
+1. Aby's Website
+2. 
 
 ##### Future plans for development
 - light and dark mode
@@ -34,7 +36,6 @@
 # Production Assets
 1. Markdown of Content ✔
 2. Moodboard ✔
-3. Style Guide
-4. Wireframe
+3. Style Guide ✔
 5. Figma Prototype 
 6. Final Website
